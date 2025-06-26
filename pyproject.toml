@@ -1,0 +1,16 @@
+[project]
+name = "my-botorch-sandbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "botorch>=0.14.0",
+    "gpytorch>=1.14",
+    "matplotlib>=3.10.3",
+    "optuna>=4.3.0",
+    "pandas>=2.3.0",
+    "plotly>=6.1.1",
+    "salib>=1.5.1",
+    "shap>=0.47.2",
+]
